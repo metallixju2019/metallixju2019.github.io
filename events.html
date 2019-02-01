@@ -36,7 +36,18 @@
     <div class="loader-outter"></div>
     <div class="loader-inner"></div>
 </div>
-
+<style>
+    .blinking{
+    animation:blinkingText 0.8s infinite;
+}
+@keyframes blinkingText{
+    0%{     color: black;    }
+    49%{    color: transparent; }
+    
+    100%{   color: black;    }
+}
+    
+</style>    
 <!--header start here -->
 <header class="header navbar fixed-top navbar-expand-md">
     <div class="container">
@@ -553,7 +564,7 @@ through these events.
     <div class="container">
       
             <div class="brand_item text-center">
-               <h1>Become a Campus Ambassador !</h1>
+		    <h1><span class="blinking">Become a Campus Ambassador !</span></h1>
                <a href="campusambassador.html" class="btn btn-primary btn-rounded">Know More</a>
             </div>
             
