@@ -590,7 +590,7 @@ div.pp_default .pp_loaderIcon
 .member-content-holder 
 {
     width: 440px;
-    padding: 30px 50px 30px 50px;
+    
     float: left;
 }
 
@@ -1083,7 +1083,7 @@ footer
     .member-content-holder 
     {
         width: 275px;
-        padding: 50px;
+        
     }
 
     .member-image-holder 
@@ -1276,7 +1276,7 @@ footer
     .member-content-holder 
     {
         width: 40%;
-        padding: 10% 5% 10% 5%;
+      
     }
 
     .member-image-holder 
