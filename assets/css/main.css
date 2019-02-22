@@ -2386,6 +2386,7 @@ Cover
 .speaker_box {
   position: relative;
   overflow: hidden;
+	padding: 10px;
 }
 .speaker_box .speaker_img {
   position: relative;
