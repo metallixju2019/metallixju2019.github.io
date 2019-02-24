@@ -120,6 +120,12 @@ ul.nosyely_list {
   padding: 10px 0;
   font-size: 36px;
 }
+.section_title .title1 {
+  text-transform: uppercase;
+  padding: 10px 0;
+  font-size: 30px;
+  text-align: center;
+}
 .section_title .title:before {
   width: 30px;
   content: " ";
