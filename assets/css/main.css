@@ -1,9 +1,4 @@
-/*
- * Evento -  Event html  Template
- * Build Date: jan 2018
- * Author: colorlib
- * Copyright (C) 2018 colorlib
- */
+
 /* ------------------------------------- */
 /* TABLE OF CONTENTS
 /* -------------------------------------
@@ -123,7 +118,7 @@ ul.nosyely_list {
 .section_title .title1 {
   text-transform: uppercase;
   padding: 10px 0;
-  font-size: 30px;
+  font-size: 24px;
   text-align: center;
 }
 .section_title .title:before {
